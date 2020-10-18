@@ -62,9 +62,9 @@ section{
 	clear: right;
 }
 footer{
-	position: absolute;
-	right: 50%;
-	bottom: 10px;
+    position: relative;
+    text-align: center;
+    padding: 10px;
 }
 
 
